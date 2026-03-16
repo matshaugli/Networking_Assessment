@@ -11,7 +11,7 @@ This project is a routing and switching assessment where I act as the network en
 ## Repository Contents
 - `Network_config.pka` – Cisco Packet Tracer activity file of the completed network.
 - `Configured_Network.png` – Screenshot of the final network topology.
-- 'Network_Config_Requirements.pdf' - Assessment file
+- `Network_Config_Requirements.pdf` – Assessment file.
 - `README.md` – Project description and instructions.
 
 ## How to Open
