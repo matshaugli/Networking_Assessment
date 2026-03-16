@@ -1,6 +1,6 @@
 # Skills-Based Networking Assessment
 This repository contains my Networking Assessment completed in Cisco Packet Tracer. 
-This project is a routing and switching assessment where I act as the network engineer. I designi and configure a multi-VLAN network that connects to an ISP.
+This project is a routing and switching assessment where I act as the network engineer. I design and configure a multi-VLAN network that connects to an ISP.
 
 ## Task Requirements
 - Design IPv4 subnets using VLSM from a given /22 block and apply IPv6 addressing.
